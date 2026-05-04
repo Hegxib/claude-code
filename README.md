@@ -1,3 +1,6 @@
+Notice: Hegxib is strictly reposting this data; we did not leak these files. All original source code is the proprietary property of Anthropic PBC.
+Reposted from https://github.com/yasasbanukaofficial/claude-code
+
 # Claude Code's Entire Source Code Got Leaked via a Sourcemap in npm, Let's Talk About It
 
 > **PS:** This breakdown is also available on [this blog](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it) with a better reading experience and UX :)
